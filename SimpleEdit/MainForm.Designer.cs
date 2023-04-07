@@ -151,28 +151,28 @@ namespace SimpleEdit
             // RotateRightMenuButton
             // 
             this.RotateRightMenuButton.Name = "RotateRightMenuButton";
-            this.RotateRightMenuButton.Size = new System.Drawing.Size(270, 34);
+            this.RotateRightMenuButton.Size = new System.Drawing.Size(240, 34);
             this.RotateRightMenuButton.Text = "Rotate Right";
             this.RotateRightMenuButton.Click += new System.EventHandler(this.RotateRightMenuButton_Click);
             // 
             // RotateLeftMenuButton
             // 
             this.RotateLeftMenuButton.Name = "RotateLeftMenuButton";
-            this.RotateLeftMenuButton.Size = new System.Drawing.Size(270, 34);
+            this.RotateLeftMenuButton.Size = new System.Drawing.Size(240, 34);
             this.RotateLeftMenuButton.Text = "Rotate Left";
             this.RotateLeftMenuButton.Click += new System.EventHandler(this.RotateLeftMenuButton_Click);
             // 
             // FlipHorizantalyMenuButton
             // 
             this.FlipHorizantalyMenuButton.Name = "FlipHorizantalyMenuButton";
-            this.FlipHorizantalyMenuButton.Size = new System.Drawing.Size(270, 34);
+            this.FlipHorizantalyMenuButton.Size = new System.Drawing.Size(240, 34);
             this.FlipHorizantalyMenuButton.Text = "Flip Horizantally";
             this.FlipHorizantalyMenuButton.Click += new System.EventHandler(this.FlipHorizantalMenuButton_Click);
             // 
             // FlipVerticallyMenuButton
             // 
             this.FlipVerticallyMenuButton.Name = "FlipVerticallyMenuButton";
-            this.FlipVerticallyMenuButton.Size = new System.Drawing.Size(270, 34);
+            this.FlipVerticallyMenuButton.Size = new System.Drawing.Size(240, 34);
             this.FlipVerticallyMenuButton.Text = "Flip Vertically";
             this.FlipVerticallyMenuButton.Click += new System.EventHandler(this.FlipVerticalMenuButton_Click);
             // 
@@ -180,7 +180,7 @@ namespace SimpleEdit
             // 
             this.ResizeMenuButton.Enabled = false;
             this.ResizeMenuButton.Name = "ResizeMenuButton";
-            this.ResizeMenuButton.Size = new System.Drawing.Size(270, 34);
+            this.ResizeMenuButton.Size = new System.Drawing.Size(240, 34);
             this.ResizeMenuButton.Text = "Resize...";
             this.ResizeMenuButton.Click += new System.EventHandler(this.ResizeMenuButton_Click);
             // 
